@@ -6,4 +6,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://misadev.prodionline.com/v/sitemap.xml
+Sitemap: https://misadevflores.github.io/v/sitemap.xml
